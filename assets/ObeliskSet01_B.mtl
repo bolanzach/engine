@@ -1,0 +1,11 @@
+# Created with Anim8or 1.00
+# Object "ObeliskSet01B":
+
+newmtl ObeliskSet_Base01
+Ka 0.141 0.141 0.141
+Kd 0.349 0.349 0.349
+Ks 0.224 0.224 0.224
+Ns 252.6
+map_Kd ObeliskSet-Base1-Diffuse.png
+map_Ks ObeliskSet-Base1-Specular.png
+
